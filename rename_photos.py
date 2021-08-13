@@ -5,7 +5,7 @@
 ################ ONLY RUN ONCE OR IT OVERWRITES #####################
 import os
 
-rootdir = '/home/tim/Documents/scriptie/data'
+rootdir = #PATH_OF_DATA
 photonumber = 0
 for i in range(1,22):
     student = i
